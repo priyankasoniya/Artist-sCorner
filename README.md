@@ -1,2 +1,2 @@
-# Artist-sCorner
+# Artist'sCorner
 Django Project 
